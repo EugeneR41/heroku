@@ -1,0 +1,75 @@
+.qwer {
+    border-radius: 250px;
+}
+
+.wrap {
+    background: black;
+}
+
+.wrap1 {
+    background: #ebebeb;
+    border-radius: 15px;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.footer {
+    background: blue;
+}
+
+hr.new {
+    border-top-color: #bbb;
+    opacity: 0.5;
+}
+
+.leftstr,
+.rightstr {
+    float: left;
+    /* Обтекание справа */
+    width: 50%;
+    /* Ширина текстового блока */
+}
+
+.rightstr {
+    text-align: right;
+    /* Выравнивание по правому краю */
+}
+
+.rightimg  {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+	display:inline;
+   }
+   
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+.zzz {
+	 position:fixed; 
+	 bottom:0;	 
+}
+
+.nobg {
+	background-color: transparent;
+}
